@@ -1,4 +1,4 @@
-name: gravlensing-env-bsa2025
+name: gravlensing-env-bsa2026
 channels:
   - conda-forge
   - menpo
@@ -27,4 +27,3 @@ dependencies:
   - scipy==1.14.0
   - corner==2.2.2
   - subhaloscript
-
